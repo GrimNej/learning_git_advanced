@@ -1,0 +1,5 @@
+user_input_1 = input("Enter the first number for division: ")
+user_input_2 = input("Enter the second number for division: ")
+user_input_3 = input("Enter the third number for division: ")
+division = float(user_input_1) / float(user_input_2) / float(user_input_3)
+print(f"The Result of division is: {division}")
